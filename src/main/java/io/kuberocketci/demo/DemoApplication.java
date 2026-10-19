@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Main Sppring Boot application class for KubeRocketCI demo. Test autodeploy
+ * Main Sppring Boot application class for KubeRocketCI demo. Test autodeploy. Test 2
  */
 @SpringBootApplication
 public class DemoApplication {
